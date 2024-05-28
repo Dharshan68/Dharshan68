@@ -19,11 +19,6 @@ Hi, I'm Dharshan K, a dedicated aspiring data professional with a strong foundat
 - Advanced SQL techniques
 - Snowflake.
 
-## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/dharshan-k-ab0944234)
-
-## 📧 Contact
-Feel free to reach out to me at [dharshank15062001@gmail.com](dharshank15062001@gmail.com) for any queries or opportunities.
 
 Thank you for visiting my profile!
 
