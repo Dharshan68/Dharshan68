@@ -8,9 +8,25 @@ Hi, I'm Dharshan K, a dedicated aspiring data professional with a strong foundat
 - **Data Warehousing:** ETL processes, Data Modeling
 - **Cloud Computing:** Microsoft Azure (AZ-900 certified)
 - **Data Analysis:** Excel
-- **Certifications:**
-  - AZ-900: Microsoft Azure Fundamentals
-  - DP-900: Microsoft Azure Data Fundamentals
+
+ 
+## 🏆 Certifications
+- **AZ-900: Microsoft Azure Fundamentals.** [Link](https://learn.microsoft.com/api/credentials/share/en-us/Dharshank-4507/9FD866722FF586D8?sharingId=6515F31CE7CB33C2)
+- **DP-900: Microsoft Azure Data Fundamentals.** [Link](https://learn.microsoft.com/api/credentials/share/en-us/Dharshank-4507/ABD46F79C05E386B?sharingId=6515F31CE7CB33C2)
+
+## 🌱 Currently Learning
+- Python for data analysis.
+- Advanced SQL techniques
+- Snowflake.
+
+## 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/dharshan-k-ab0944234)
+
+## 📧 Contact
+Feel free to reach out to me at [dharshank15062001@gmail.com](dharshank15062001@gmail.com) for any queries or opportunities.
+
+Thank you for visiting my profile!
+
 
 <!--
 **Dharshan68/Dharshan68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
