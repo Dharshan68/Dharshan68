@@ -13,7 +13,8 @@ Hi, I'm Dharshan K, a dedicated aspiring data professional with a strong foundat
 ## 🏆 Certifications
 - **AZ-900: Microsoft Azure Fundamentals.** [Link](https://learn.microsoft.com/api/credentials/share/en-us/Dharshank-4507/9FD866722FF586D8?sharingId=6515F31CE7CB33C2)
 - **DP-900: Microsoft Azure Data Fundamentals.** [Link](https://learn.microsoft.com/api/credentials/share/en-us/Dharshank-4507/ABD46F79C05E386B?sharingId=6515F31CE7CB33C2)
-- **SQL (Basic).** [Link](https://www.hackerrank.com/certificates/e7470fbf7dcb)
+- **SQL Basic.** [Link](https://www.hackerrank.com/certificates/e7470fbf7dcb)
+- **SQL Intermediate.** [Link](https://www.hackerrank.com/certificates/f2927b0ba09d)
 
 ## 🌱 Currently Learning
 - Python for data analysis.
