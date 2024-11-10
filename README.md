@@ -4,10 +4,11 @@
 Hi, I'm Dharshan K, a dedicated aspiring data professional with a strong foundation in database management, SQL Server, data warehousing, and Azure cloud computing. I also have experience with data analysis using Excel. Currently, I am looking for opportunities in data-related roles to further hone my skills and contribute to impactful projects.
 
 ## 🛠 Skills and Technologies
+- **Programming Language:** Python
 - **Database Management:** DBMS, SQL Server
 - **Data Warehousing:** ETL processes, Data Modeling
-- **Cloud Computing:** Microsoft Azure (AZ-900 certified)
 - **Data Analysis:** Excel
+- **Cloud Computing:** Microsoft Azure (AZ-900, DP-900 certified)
 
  
 ## 🏆 Certifications
@@ -17,9 +18,8 @@ Hi, I'm Dharshan K, a dedicated aspiring data professional with a strong foundat
 - **SQL Intermediate.** [Link](https://www.hackerrank.com/certificates/f2927b0ba09d)
 
 ## 🌱 Currently Learning
-- Python for data analysis.
+- Pandas
 - Advanced SQL techniques
-- Snowflake.
 
 
 Thank you for visiting my profile!
